@@ -1,12 +1,6 @@
 {"quizlist":[
   
 	{
-	"question":"Which picture shows the city of Abidjan?",
-	"option1":"abidjan.png",
-	"option2":"tokyo.png",
-	"option3":"cairo.png"
-	},
-	{
 	"question":"Which picture shows the city of Berlin?",
 	"option1":"berlin.png",
 	"option2":"surat.png",
@@ -77,12 +71,6 @@
 	"option1":"paris.png",
 	"option2":"nanjing.png",
 	"option3":"multan.png"
-	},
-	{
-	"question":"Which picture shows the city of Mumbai?",
-	"option1":"mumbai.png",
-	"option2":"nagoya.png",
-	"option3":"ahmedabad.png"
 	},
 	{
 	"question":"Which picture shows the city of Alexandria?",
