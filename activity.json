@@ -1,29 +1,185 @@
 {"quizlist":[
   
 	{
-	"question":"Which picture shows the city of Seoul?",
-	"option1":"seoul.png",
+	"question":"Which picture shows the city of Abidjan?",
+	"option1":"Abidjan.png",
 	"option2":"tokyo.png",
 	"option3":"cairo.png"
 	},
 	{
-	"question":"Which picture shows a labrador?",
-	"option1":"labrador.png",
-	"option2":"beagle.png",
-	"option3":"poodle.png"
+	"question":"Which picture shows the city of Berlin?",
+	"option1":"berlin.png",
+	"option2":"surat.png",
+	"option3":"ankara.png"
 	},
 	{
-	"question":"Which picture shows a meerkat?",
-	"option1":"meerkat.png",
-	"option2":"chipmunk.png",
-	"option3":"squirrel.png"
+	"question":"Which picture shows the city of Hamburg?",
+	"option1":"hamburg.png",
+	"option2":"izmir.png",
+	"option3":"yokohama.png"
 	},
 	{
-	"question":"Which picture shows the city of Hong Kong?",
-	"option1":"hong.png",
+	"question":"Which picture shows the city of Shanghai?",
+	"option1":"shanghai.png",
+	"option2":"toronto.png",
+	"option3":"tehran.png"
+	},
+	{
+	"question":"Which picture shows the city of Tehran?",
+	"option1":"tehran.png",
+	"option2":"madrid.png",
+	"option3":"lahore.png"
+	},
+	{
+	"question":"Which picture shows the city of Lima?",
+	"option1":"lima.png",
+	"option2":"los angeles.png",
+	"option3":"london.png"
+	},
+	{
+	"question":"Which picture shows the city of Kuala Lumpur?",
+	"option1":"kuala lumpur.png",
+	"option2":"kyiv.png",
+	"option3":"kolkata.png"
+	},
+	{
+	"question":"Which picture shows the city of Ankara?",
+	"option1":"ankara.png",
 	"option2":"istanbul.png",
-	"option3":"paris.png"
-	}
-
+	"option3":"bandung.png"
+	},
+	{
+	"question":"Which picture shows the city of Bogota?",
+	"option1":"bogota.png",
+	"option2":"busan.png",
+	"option3":"cape town.png"
+	},
+	{
+	"question":"Which picture shows the city of Madrid?",
+	"option1":"madrid.png",
+	"option2":"mexico city.png",
+	"option3":"munich.png"
+	},
+	{
+	"question":"Which picture shows the city of Singapore?",
+	"option1":"singapore.png",
+	"option2":"toronto.png",
+	"option3":"tokyo.png"
+	},
+	{
+	"question":"Which picture shows the city of Osaka?",
+	"option1":"osaka.png",
+	"option2":"new york city.png",
+	"option3":"phoenix.png"
+	},
+	{
+	"question":"Which picture shows the city of Paris?",
+	"option1":"paris.png",
+	"option2":"nanjing.png",
+	"option3":"multan.png"
+	},
+	{
+	"question":"Which picture shows the city of Mumbai?",
+	"option1":"mumbai.png",
+	"option2":"nagoya.png",
+	"option3":"ahmedabad.png"
+	},
+	{
+	"question":"Which picture shows the city of Alexandria?",
+	"option1":"alexandria.png",
+	"option2":"beijing.png",
+	"option3":"buenos aires.png"
+	},
+	{
+	"question":"Which picture shows the city of Casablanca?",
+	"option1":"casablanca.png",
+	"option2":"brasilia.png",
+	"option3":"bangkok.png"
+	},
+	{
+	"question":"Which picture shows the city of Bangaluru?",
+	"option1":"bangaluru.png",
+	"option2":"chengdu.png",
+	"option3":"dar es salaam.png"
+	},
+	{
+	"question":"Which picture shows the city of Chicago?",
+	"option1":"chicago.png",
+	"option2":"sao paulo.png",
+	"option3":"taipei.png"
+	},
+	{
+	"question":"Which picture shows the city of Saint Petersburg?",
+	"option1":"saint petersburg.png",
+	"option2":"hyberabad.png",
+	"option3":"istanbul.png"
+	},
+	{
+	"question":"Which picture shows the city of Istanbul?",
+	"option1":"istanbul.png",
+	"option2":"jakarta.png",
+	"option3":"houston.png"
+	},
+	{
+	"question":"Which picture shows the city of Izmir?",
+	"option1":"izmir.png",
+	"option2":"hamburg.png",
+	"option3":"brasilia.png"
+	},
+	{
+	"question":"Which picture shows the city of Beijing?",
+	"option1":"beijing.png",
+	"option2":"adelaide.png",
+	"option3":"abidjan.png"
+	},
+	{
+	"question":"Which picture shows the city of jeddah?",
+	"option1":"jeddah.png",
+	"option2":"kochi.png",
+	"option3":"lima.png"
+	},
+	{
+	"question":"Which picture shows the city of Jaipur?",
+	"option1":"jaipur.png",
+	"option2":"kinshasa.png",
+	"option3":"kobe.png"
+	},
+	{
+	"question":"Which picture shows the city of Kabul?",
+	"option1":"kabul.png",
+	"option2":"houston.png",
+	"option3":"izmir.png"
+	},
+	{
+	"question":"Which picture shows the city of Jakarta?",
+	"option1":"jakarta.png",
+	"option2":"hong kong.png",
+	"option3":"incheon.png"
+	},
+	{
+	"question":"Which picture shows the city of Harbin?",
+	"option1":"harbin.png",
+	"option2":"hefei.png",
+	"option3":"guangzhou.png"
+	},
+	{
+	"question":"Which picture shows the city of Gujranwala?",
+	"option1":"gujranwala.png",
+	"option2":"giza.png",
+	"option3":"fukuoka.png"
+	},
+	{
+	"question":"Which picture shows the city of Guadalajara?",
+	"option1":"guadalajara.png",
+	"option2":"durban.png",
+	"option3":"brisbane.png"
+	},
+	{
+	"question":"Which picture shows the city of Dubai?",
+	"option1":"dubai.png",
+	"option2":"changsha.png",
+	"option3":"chongqing.png"
+	},
+	
 ]
 }
