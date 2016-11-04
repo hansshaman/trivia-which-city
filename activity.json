@@ -1,10 +1,10 @@
 {"quizlist":[
   
 	{
-	"question":"Which picture shows a lion?",
-	"option1":"lion.png",
-	"option2":"tiger.png",
-	"option3":"cheetah.png"
+	"question":"Which picture shows the city of Seoul?",
+	"option1":"seoul.png",
+	"option2":"tokyo.png",
+	"option3":"cairo.png"
 	},
 	{
 	"question":"Which picture shows a labrador?",
