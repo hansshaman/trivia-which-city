@@ -1,2 +1,2 @@
 
-http://www.flashbynight.com/tutes/mcqquiz/ READ HERE HOW TO EDIT IT
+http://www.flashbynight.com/tutes/pixquiz/ READ HERE HOW TO EDIT IT
