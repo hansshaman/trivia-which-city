@@ -85,12 +85,6 @@
 	"option3":"bangkok.png"
 	},
 	{
-	"question":"Which picture shows the city of Bangaluru?",
-	"option1":"bangaluru.png",
-	"option2":"chengdu.png",
-	"option3":"dar es salaam.png"
-	},
-	{
 	"question":"Which picture shows the city of Chicago?",
 	"option1":"chicago.png",
 	"option2":"sao paulo.png",
