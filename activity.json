@@ -17,6 +17,12 @@
 	"option1":"meerkat.png",
 	"option2":"chipmunk.png",
 	"option3":"squirrel.png"
+	},
+	{
+	"question":"Which picture shows the city of Hong Kong?",
+	"option1":"hong.png",
+	"option2":"istanbul.png",
+	"option3":"paris.png"
 	}
 
 ]
