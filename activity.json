@@ -2,20 +2,20 @@
   
 	{
 	"question":"?הקבוצה מתי הוקמה ",
-	"option1":"1948",
+	"option1":"1936",
 	"option2":"1949",
-	"option3":"1936"
+	"option3":"1948"
 	},
 	{
 	"question":"?כמה אליפות לקחה",
-	"option1":"87",
+	"option1":"6",
 	"option2":"3",
-	"option3":"6"
+	"option3":"7"
 	},
 	{
 	"question":"?כמה גביעי מדינה היא לקחה",
-	"option1":"8",
-	"option2":"7",
+	"option1":"7",
+	"option2":"9",
 	"option3":"1"
 	}
 
