@@ -1,22 +1,22 @@
 {"quizlist":[
   
 	{
-	"question":"Portuguese is spoken in _______",
-	"option1":"Brazil",
-	"option2":"Argentina",
-	"option3":"Ecuador"
+	"question":"?הקבוצה מתי הוקמה ",
+	"option1":"1948",
+	"option2":"1949",
+	"option3":"1936"
 	},
 	{
-	"question":"What is the capital of Peru?",
-	"option1":"Lima",
-	"option2":"Bogota",
-	"option3":"San Juan"
+	"question":"?כמה אליפות לקחה",
+	"option1":"87",
+	"option2":"3",
+	"option3":"6"
 	},
 	{
-	"question":"Which country is long and thin?",
-	"option1":"Chile",
-	"option2":"Uruguay",
-	"option3":"Colombia"
+	"question":"?כמה גביעי מדינה היא לקחה",
+	"option1":"8",
+	"option2":"7",
+	"option3":"1"
 	}
 
 ]
