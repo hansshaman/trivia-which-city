@@ -14,6 +14,12 @@
 	"option3":"milan.png"
 	},
 	{
+	"question":"Which picture shows the city of Bogota?",
+	"option1":"bogota.png",
+	"option2":"calgary.png",
+	"option3":"caloocan.png"
+	},
+	{
 	"question":"Which picture shows the city of Philedelphia?",
 	"option1":"philedelphia.png",
 	"option2":"perth.png",
