@@ -8,10 +8,16 @@
 	"option3":"ankara.png"
 	},
 	{
-	"question":"Which picture shows the city of Bogota?",
-	"option1":"bogota.png",
-	"option2":"calgary.png",
-	"option3":"caloocan.png"
+	"question":"Which picture shows the city of Yokohama?",
+	"option1":"yokohama.png",
+	"option2":"toronto.png",
+	"option3":"wuhan.png"
+	},
+	{
+	"question":"Which picture shows the city of Kobe?",
+	"option1":"kobe.png",
+	"option2":"kuala lumpur.png",
+	"option3":"shantou.png"
 	},
 	{
 	"question":"Which picture shows the city of Philedelphia?",
