@@ -1,10 +1,29 @@
 {"quizlist":[
   
+	
 	{
 	"question":"Which picture shows the city of Berlin?",
 	"option1":"berlin.png",
 	"option2":"surat.png",
 	"option3":"ankara.png"
+	},
+	{
+	"question":"Which picture shows the city of Baghdad?",
+	"option1":"baghdad.png",
+	"option2":"calgary.png",
+	"option3":"caloocan.png"
+	},
+	{
+	"question":"Which picture shows the city of Lagos?",
+	"option1":"lagos.png",
+	"option2":"melbourne.png",
+	"option3":"milan.png"
+	},
+	{
+	"question":"Which picture shows the city of Philedelphia?",
+	"option1":"philedelphia.png",
+	"option2":"perth.png",
+	"option3":"pune.png"
 	},
 	{
 	"question":"Which picture shows the city of Hamburg?",
